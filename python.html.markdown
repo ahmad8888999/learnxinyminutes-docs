@@ -1041,3 +1041,4 @@ print(say(say_please=True))  # Can you buy me a beer? Please! I am poor :(
 * [A Crash Course in Python for Scientists](https://nbviewer.jupyter.org/gist/anonymous/5924718)
 * [Python Tutorial for Intermediates](https://pythonbasics.org/)
 * [Build a Desktop App with Python](https://pythonpyqt.com/)
+* [PYTHON IF ELSE ONE LINE STATEMENT] (https://www.entechin.com/python-if-else-one-line-statement/)
